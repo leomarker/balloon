@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#h1{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(134, 9, 9);
+    
+}
+#p{
+    text-align: center;
+    color: rgb(134, 9, 9);
+    font-size: 18px;
+}
+#p2{
+    text-align: center;
+}
+
+.div{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#balloon{
+    font-size: 500%;
+}
