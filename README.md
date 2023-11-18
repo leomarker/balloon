@@ -1,2 +1,2 @@
 # balloon
-My First foor on Javascript 
+My First foot on Javascript 
